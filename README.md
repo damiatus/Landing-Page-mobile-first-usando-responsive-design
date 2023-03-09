@@ -1,4 +1,4 @@
-# Landing-Page-mobile-first-usando-responsive-design
+#  Batatabit | Landing-Page-mobile-first-usando-responsive-design
 
 -En este proyecto realicé una landing page utlizinado html y css con principios mobile first.\
 -Apliqué responsive design junto con media queries para que se vea correctamente en todo tipo de dispositivos.\
